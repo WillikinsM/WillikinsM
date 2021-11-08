@@ -36,11 +36,11 @@
 <br/>
 
 <a href="https://github.com/WillikinsM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillikinsM&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WillikinsM&theme=dracula&show_icons=true" />
 </a>
 
 <a href="https://github.com/WillikinsM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WillikinsM&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillikinsM&theme=dracula&hide_langs_below=1" />
 </a>
 
 <br/>
@@ -48,4 +48,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: WILLIKINS GONÇALVES ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willikins-goncalves/)](https://www.linkedin.com/in/willikins-goncalves/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willikins98@gmail.com)](mailto:willikins98@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-willikisn98@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willikins98@gmail.com)](mailto:willikins98@gmail.com)

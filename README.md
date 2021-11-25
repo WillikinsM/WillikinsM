@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/WillikinsM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillikinsM&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillikinsM&theme=dracula&layout=compact" />
 </a>
 
 <br/>

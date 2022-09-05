@@ -46,9 +46,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillikinsM&theme=dracula&layout=compact" />
 </a>
 
+
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: WILLIKINS GONÇALVES ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willikins-goncalves/)](https://www.linkedin.com/in/willikins-goncalves/)
 [![Gmail Badge](https://img.shields.io/badge/-willikisn98@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willikins98@gmail.com)](mailto:willikins98@gmail.com)
+
+<h3> Findme on Daily Dev </h3>
+<a href="https://app.daily.dev/willikins"><img src="https://api.daily.dev/devcards/6b1adee0e7924c62aca4546e8e126731.png?r=0jr" width="400" alt="Willikins Gonçalves's Dev Card"/></a>

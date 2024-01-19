@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciência da Computação no <a href="https://unifil.br/">UNIFIL</a>.
-- 💼 &nbsp; Trabalhando como Analista desenvolvedor de Sistemas Jr. na <a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento Front-end.
+- 💼 &nbsp; Trabalhando como Analista desenvolvedor de Sistemas Pleno na <a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
+- 🌱 &nbsp; Aprendendo mais sobre tecnologias cloud mobile.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
